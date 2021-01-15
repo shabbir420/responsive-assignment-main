@@ -46,12 +46,9 @@
     height: 30px;
     padding-right: 10px;
 }
-
-
 .background-border{
     border: 20px solid white;
-    background-color: #f1f1f1;
-    
+    background-color: #f1f1f1; 
 }
 .price{
     color: #76c27e;
@@ -62,19 +59,9 @@
 .border-margin{
     border-radius: 50px;
 }
-
-
-
 .banner-image{
     padding-left: 25%;
 }
-.margin{
-    margin-bottom: 100px;
-}
-.gutter{
-    width: 200px;
-}
-
 .color-highlight{
     color: #363958;
 }
@@ -83,9 +70,7 @@
 }
 .border-shape{
     border-radius: 20px;
-    
 }
-
 .padding{
     padding-left:100px;
     width: 1470px;
@@ -93,13 +78,6 @@
     margin-top: 50px;
     display: flex;
 }
-.padd{
-    padding-left: 80px;
-}
-.menubar{
-    margin-inline: 10px;
-}
-
 .footer-section{
     margin-top: 80px;  
     margin-bottom: 100px;
